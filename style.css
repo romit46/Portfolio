@@ -401,6 +401,7 @@ hr{
     .firstline , .titleline , .titleline2{
         text-align: center;
         margin-left: -30px;
+        font-size: 65px;
     }
     .firstline::after{
         display: none;
